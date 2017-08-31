@@ -10,7 +10,6 @@ print("Put a place?")
 place = input()
 print("What's a thing you like")
 thing = input()
-print("
 print( noun + " went to " + place + " to get some " + thing + ".")
 
 #running = True
